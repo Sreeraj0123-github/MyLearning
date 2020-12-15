@@ -1,2 +1,3 @@
-# MyLearning
-This is for learning purpose only
+# maven-project
+
+Simple Maven Project
